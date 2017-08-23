@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lasgidi Developers</string>
+    <string name="empty_view_state">Lagos has wonderful developers "\n"  . . . please wait a little longer</string>
+    <string name="share_developer_profile">check out this awesome developer @</string>
+    <string name="share_intent_chooser_title">Share this Lasgidi Developer</string>
+    <string name="view_developer_profile">View this Lasgidi Developer</string>
+    <string name="location_title">LOCATION</string>
+    <string name="repos_title">REPOS</string>
+    <string name="dummy_text">nonsobiose</string>
+</resources>

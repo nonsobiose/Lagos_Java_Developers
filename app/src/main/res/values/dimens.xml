@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="parent_rootview">5dp</dimen>
+    <dimen name="name_location_textsize">20sp</dimen>
+    <dimen name="repos_textsize">28sp</dimen>
+    <dimen name="location_repos_text">18sp</dimen>
+</resources>
